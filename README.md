@@ -1,5 +1,6 @@
-### Hola, soy 𝑴𝒊𝒈𝒖𝒆𝒍 𝑺𝒂𝒏𝒛👋
-
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">𝑴𝒊𝒈𝒖𝒆𝒍 𝑺𝒂𝒏𝒛</a> 👋</h1>
+</div>
 <!--
 **Miguel-Sanz/Miguel-Sanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
