@@ -7,10 +7,10 @@
   <a href="enlace_discord">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="[enlace_instagram](https://www.instagram.com/__ssanzz__/)">
+  <a href="https://www.instagram.com/__ssanzz__/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="[enlace_linkedin](https://www.linkedin.com/in/miguel-sanz-56a402273/)">
+  <a href="https://www.linkedin.com/in/miguel-sanz-56a402273/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
