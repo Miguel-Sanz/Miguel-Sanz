@@ -4,8 +4,6 @@
 </h1>
 </div>
 
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&color=E70000&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hola+,+soy+Miguel+Sanz;+ Bienvenido a mi repositorio;+ Sientete libre de explorar!" />
 <!--
 
 Here are some ideas to get you started:
