@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+,+Soy+Miguel+Sanz!;+🦉;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=E70000&random=false&width=435&lines=Hola%2C+soy+Miguel+Sanz";+🦉; alt="Typing SVG" /></a>
 </h1>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=E70000&random=false&width=435&lines=Hola%2C+soy+Miguel+Sanz" alt="Typing SVG" /></a>
+
 <!--
 
 Here are some ideas to get you started:
