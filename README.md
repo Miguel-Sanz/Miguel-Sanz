@@ -14,7 +14,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1000&color=ED0000&random=false&width=435&lines=Bienvenido+a+mi+repositorio;Si%C3%A9ntete+libre+de+explorarlo;Gracias+por+tu+apoyo++%F0%9F%A6%89+)
 
 
-<img src="https://github.com/Miguel-Sanz/Miguel-Sanz/assets/118904961/8573f7a3-be4f-43d3-9ec2-859e3ece4a4f" alt="FOTO DE PERFIL" style="border-radius: 50%;" />
+<img src="assets/9.jpg" alt="FOTO DE PERFIL" style="border-radius: 50%;" />
+
 
 
 
