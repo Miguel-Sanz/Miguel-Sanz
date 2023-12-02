@@ -18,9 +18,6 @@
 
 
 
-
-
-
 <h3 align="left">ℂ𝕠𝕟𝕖𝕔𝕥𝕒 𝕔𝕠𝕟𝕞𝕚𝕘𝕠:</h3>
 <p align="left">
   <a href="enlace_discord">
