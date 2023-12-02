@@ -4,9 +4,8 @@
 </h1>
 </div>
 
-
 <p align="center">
-  <img src="![9](https://github.com/Miguel-Sanz/Miguel-Sanz/assets/118904961/5ed7b2e0-3305-4434-bc28-25aa82d4d1f9)" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/Miguel-Sanz/Miguel-Sanz/assets/118904961/5ed7b2e0-3305-4434-bc28-25aa82d4d1f9" width="200" style="border-radius: 50%;" />
 </p>
 
 <p align="left">
