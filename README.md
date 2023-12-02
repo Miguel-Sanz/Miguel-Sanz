@@ -43,3 +43,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miguel-Sanz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Miguel-Sanz=discord&no-frame=false&no-bg=false&margin-w=4)
