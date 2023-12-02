@@ -4,7 +4,7 @@
 </h1>
 </div>
 
-<h2 align="center">
+<h2>
   <a href="https://www.linkedin.com/in/miguel-sanz-56a402273/" style="text-decoration: none; color: inherit;">
     𝑴𝒊𝒈𝒖𝒆𝒍 𝑺𝒂𝒏𝒛
   </a>
