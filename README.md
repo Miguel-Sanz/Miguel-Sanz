@@ -8,8 +8,11 @@
   Miguel Sanz
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
+
 --------
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=E81010&random=false&width=430&lines=Si%C3%A9ntete+libre+de+explorar+;Gracias+por+tu+apoyo+%F0%9F%A6%89)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=E81010&random=false&width=430&lines=Si%C3%A9ntete+libre+de+explorar+;Gracias+por+tu+apoyo+%F0%9F%A6%89)
+
 
 
 <h3 align="left">ℂ𝕠𝕟𝕖𝕔𝕥𝕒 𝕔𝕠𝕟𝕞𝕚𝕘𝕠:</h3>
