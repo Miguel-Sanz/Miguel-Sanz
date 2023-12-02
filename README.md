@@ -26,10 +26,17 @@
 
 
 
-<h3 align="left">𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:</h3>
+<h3 align="left">𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,css,html,js,nodejs,mysql,ps,git,github,docker,eclipse,vscode,au,linux,ai&perline=12" />
+  </a>
+</p>
+
+<h3 align="left">ℍ𝕖𝕣𝕣𝕒𝕞𝕚𝕖𝕟𝕥𝕒𝕤:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,eclipse,vscode,au,linux,ai&perline=8" />
   </a>
 </p>
 
