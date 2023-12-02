@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&color=E70000&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hola+,+soy+Miguel+Sanz!;+h;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&color=E70000&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hola+,+soy+Miguel+Sanz!;+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> " />
 </h1>
 </div>
 
