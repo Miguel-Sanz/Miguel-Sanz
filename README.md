@@ -4,11 +4,15 @@
 </h1>
 </div>
 
+
 <p align="center">
-  <img src="imagen_izquierda.jpg" width="300" />
-  Texto que va entre las imágenes.
-  <img src="imagen_derecha.jpg" width="300" />
+  <img src="![9](https://github.com/Miguel-Sanz/Miguel-Sanz/assets/118904961/5ed7b2e0-3305-4434-bc28-25aa82d4d1f9)" width="200" style="border-radius: 50%;" />
 </p>
+
+<p align="left">
+  Texto que va a la derecha de la imagen.
+</p>
+
 
 
 <h3 align="left">ℂ𝕠𝕟𝕖𝕔𝕥𝕒 𝕔𝕠𝕟𝕞𝕚𝕘𝕠:</h3>
