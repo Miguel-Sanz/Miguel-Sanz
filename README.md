@@ -4,6 +4,8 @@
 </h1>
 </div>
 
+![Texto alternativo](./assets/Banner.jpg)
+
 <h2>
     𝑴𝒊𝒈𝒖𝒆𝒍 𝑺𝒂𝒏𝒛
   </a>
