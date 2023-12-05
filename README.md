@@ -21,12 +21,12 @@
 
 
 
-<h3 align="left">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
-<p align="left">
-  <a href="enlace_discord">
+<h3 align="center">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
+<p align="center">
+  <a href="enlace_discord" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://www.instagram.com/__ssanzz__/">
+  <a href="https://www.instagram.com/__ssanzz__/" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/miguel-sanz-56a402273/">
@@ -34,18 +34,16 @@
   </a>
 </p>
 
-
-
-<h3 align="left">𝐋𝐚𝐧𝐠𝐮𝐚𝐣𝐞𝐬:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
+<h3 align="center">𝐋𝐚𝐧𝐠𝐮𝐚𝐣𝐞𝐬:</h3>
+<p align="center">
+  <a href="https://skillicons.dev" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=java,php,css,html,js,nodejs,mysql&perline=12" />
   </a>
 </p>
 
-<h3 align="left">𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
+<h3 align="center">𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬:</h3>
+<p align="center">
+  <a href="https://skillicons.dev" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=git,github,docker,eclipse,vscode,au,ps,linux,ai&perline=8" />
   </a>
 </p>
