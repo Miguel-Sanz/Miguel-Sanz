@@ -21,7 +21,7 @@
 
 
 
-<h3 align="left">ℂ𝕠𝕟𝕖𝕔𝕥𝕒 𝕔𝕠𝕟𝕞𝕚𝕘𝕠:</h3>
+<h3 align="left">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
 <p align="left">
   <a href="enlace_discord">
     <img src="https://skillicons.dev/icons?i=discord" />
@@ -36,14 +36,14 @@
 
 
 
-<h3 align="left">𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h3>
+<h3 align="left">𝐋𝐚𝐧𝐠𝐮𝐚𝐣𝐞𝐬:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,css,html,js,nodejs,mysql&perline=12" />
   </a>
 </p>
 
-<h3 align="left">ℍ𝕖𝕣𝕣𝕒𝕞𝕚𝕖𝕟𝕥𝕒𝕤:</h3>
+<h3 align="left">𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,eclipse,vscode,au,ps,linux,ai&perline=8" />
