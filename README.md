@@ -34,12 +34,16 @@
   </a>
 </p>
 
+<br>
+
 <h3 align="center">𝐋𝐚𝐧𝐠𝐮𝐚𝐣𝐞𝐬:</h3>
 <p align="center">
   <a href="https://skillicons.dev" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=java,php,css,html,js,nodejs,mysql&perline=12" />
   </a>
 </p>
+
+<br>
 
 <h3 align="center">𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬:</h3>
 <p align="center">
