@@ -17,7 +17,7 @@
 
 
 
-<img aling="right" src="assets/perfil.png" alt="FOTO DE PERFIL" style="width:30%;" /> 
+<img align="right" src="assets/perfil.png" alt="FOTO DE PERFIL" style="width:20%;" /> 
 
 - 🔭 I’m currently working on **a full-stack web application integrating React.js and Node.js**
 
