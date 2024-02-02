@@ -17,15 +17,15 @@
 
 <img align="right" src="assets/perfil.png" alt="FOTO DE PERFIL" style="width:25%;" /> 
 
-- 🔭 I’m currently working on **a full-stack web application integrating React.js and Node.js**
+- 📌 Trabajo como **Full-stack web and software developer**
 
-- 🌱 I’m currently learning **React and Express**
+- 📌 Actualmente aprendiendo **Daw/soft skilss/web development/...**
 
-- 🤝 I’m looking for help with **developing / optimizing websites**
+- 📌 Me gustaria colaborar o emprender en **Desarrollo de software / Creación de web**
 
-- 👨‍💻 All of my projects are available at [https://www.danigarridonunez.com](https://www.danigarridonunez.com)
+- 📌 Conoce más sobre mi en mi linkedin: **https://www.linkedin.com/in/miguel-sanz-56a402273/**
 
-- 📫 How to reach me **danigarridonunez@gmail.com**
+- 📌 Como contactarme: **miguel.sanz.villanueva@gmail.com**
 
 
 <br>
