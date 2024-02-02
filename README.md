@@ -56,12 +56,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<div align="left">
 <a href="https://github.com/Miguel-Sanz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miguel-Sanz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miguel-Sanz&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="200px" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Miguel-Sanz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="200px" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miguel-Sanz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</div>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Miguel-Sanz&no-frame=false&no-bg=false&margin-w=4)
