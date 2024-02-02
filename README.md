@@ -15,8 +15,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1000&color=ED0000&random=false&width=435&lines=Bienvenido+a+mi+repositorio;Si%C3%A9ntete+libre+de+explorarlo;Gracias+por+tu+apoyo++%F0%9F%A6%89+)
 
-
-
 <img align="right" src="assets/perfil.png" alt="FOTO DE PERFIL" style="width:25%;" /> 
 
 - 🔭 I’m currently working on **a full-stack web application integrating React.js and Node.js**
@@ -30,6 +28,8 @@
 - 📫 How to reach me **danigarridonunez@gmail.com**
 
 
+<br>
+<br>
 
 
 <h3 align="center">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
