@@ -17,7 +17,18 @@
 
 
 
-<img src="assets/perfil.png" alt="FOTO DE PERFIL" style="width:30%;" />
+<img aling="right" src="assets/perfil.png" alt="FOTO DE PERFIL" style="width:30%;" /> 
+
+- 🔭 I’m currently working on **a full-stack web application integrating React.js and Node.js**
+
+- 🌱 I’m currently learning **React and Express**
+
+- 🤝 I’m looking for help with **developing / optimizing websites**
+
+- 👨‍💻 All of my projects are available at [https://www.danigarridonunez.com](https://www.danigarridonunez.com)
+
+- 📫 How to reach me **danigarridonunez@gmail.com**
+
 
 
 
