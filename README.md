@@ -19,7 +19,7 @@
 
 - 📌 Trabajo como **Full-stack web and software developer**
 
-- 📌 Actualmente aprendiendo **Daw/soft skilss/web development/...**
+- 📌 MIRA MI PORFOLIO: **https://porfolio-miguel-q53q.vercel.app/#inicio**
 
 - 📌 Me gustaria colaborar o emprender en **Desarrollo de software / Creación de web**
 
